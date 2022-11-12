@@ -9,8 +9,8 @@
 
 <div align="center" style="display: inline_block">
   <a href="https://www.linkedin.com/in/palloma-thayna/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lloma93&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lloma93&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a-lloma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-lloma&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ##
@@ -31,7 +31,7 @@ my projects:
 <div>
  <a href="https://www.behance.net/palloma-adolfi" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/palloma-thayna/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://github.com/Lloma93/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/a-lloma/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href="https://codesandbox.io/u/Lloma93" target="_blank"><img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" target="_blank"></a>
 </div>
 
