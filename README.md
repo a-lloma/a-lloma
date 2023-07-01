@@ -41,3 +41,9 @@ microsoft
 <img height="180em" src="https://user-images.githubusercontent.com/35180706/176790967-6693befe-3868-4a1d-aaa9-194f76852ca9.png"/>
 <img height="180em" src="https://user-images.githubusercontent.com/35180706/176790971-8a9a5764-4509-46c0-808e-5446dbfe3e53.png"/>
 </div>
+
+##
+aws
+<div>
+  <img height="180em" src="https://github.com/a-lloma/a-lloma/assets/35180706/fbdbf793-5611-42bb-824a-19cc2a3fad02.png"/>
+</div>
